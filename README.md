@@ -1,0 +1,2 @@
+# funcionPotencia
+Created with CodeSandbox
